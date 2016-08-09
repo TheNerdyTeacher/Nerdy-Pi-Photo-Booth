@@ -5,6 +5,15 @@ Check my website, TheNerdyTeacher.com for the full post with images and links.
 
 Over the past week, I've become a bit obsessed with creating a photo booth. I saw this very cool article in Make: Magazine and thought I could do that. Well, it turned out that that I could not do that. For whatever reason, I was having serious trouble getting the code to work and it was becoming a headache. So, I turned to The Google to find a different approach to creating a photo booth. 
 
+Materials:
+
+Raspberry Pi 3
+Micro SD card - The larger the GB, the more pics it can hold. 
+Monitor - I used the 7" Raspberry Pi Touchscreen, but any screen will do. 
+Tactile button
+Wire to connect Pi to button
+PiCamera
+
 I found some interesting resources and wonderfully helpful people online and they helped me put together a slightly different photo booth. I settled on a great code written by jallwine that was shared on Github. This was a great starting point for me to see what the photo booth could be and I could tweak the code to add different things. Not only did he have amazing code, but he helped me when I got stuck trying to tweak his code. Jallwine is the perfect example of how awesome the Maker community can be. He didn't have to help me with his code that was a few years old, but he did it anyway. 
 
 I added a button line so the photo booth would work with the press of a button. I found a version I could use on Raspberry Pi's website that was helpful. The idea of using stop motion as the trigger for the camera made sense to me, so I dropped that in there. 
